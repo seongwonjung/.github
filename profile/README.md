@@ -44,5 +44,5 @@
 
 ## 시연 영상
 <a href="#">
-  <img src="../resource/Dupilot-Showcase.jpg" alt="Dupilot 시연 영상 보기" width="100%" />
+  <img src="../resource/Dupilot-Showcase-thumb.jpg" alt="Dupilot 시연 영상 보기" width="100%" />
 </a>

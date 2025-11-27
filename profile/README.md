@@ -5,10 +5,14 @@
 - 한 번의 업로드로 영상 더빙 생성 → 브라우저에서 바로 편집 → 보이스를 사고팔 수 있는 마켓까지 이어지는 워크플로우 제공.
 
 ## 팀 멤버
-- 진주영 · 정성원 · 안준 · 김현수 · 장윤호
+- [진주영](https://github.com/orgs/KJ-10th-NMM-Team1/people/jjy3385)
+- [정성원](https://github.com/orgs/KJ-10th-NMM-Team1/people/seongwonjung)
+- [안준](https://github.com/orgs/KJ-10th-NMM-Team1/people/anjun206)
+- [김현수](https://github.com/orgs/KJ-10th-NMM-Team1/people/kimhyunso)
+- [장윤호](https://github.com/orgs/KJ-10th-NMM-Team1/people/yunojang)
 
 ## 개발 기간
-- 2025.10.24 ~ 2025.11.29 — 실제 일정으로 교체해주세요.
+- 2025.10.24 ~ 2025.11.29
 
 ## 기술 스택
 - Frontend: React 18, Vite, TypeScript, TailwindCSS, Radix UI, React Query, Zustand, Zod, MSW, Vitest/Playwright.

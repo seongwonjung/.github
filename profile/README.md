@@ -1,4 +1,4 @@
-# KJ-10th-NMM-Team1 · Dupilot
+# Dupilot
 
 ## 서비스 목적
 - 크래프톤 정글 10기 나만의 무기 1조의 AI 자동 더빙 서비스.
@@ -43,6 +43,6 @@
 ![Dupilot 포스터](../resource/Dupilot-poster.jpg)
 
 ## 시연 영상
-<video src="../resource/Dupilot-Showcase.mov" controls width="100%">
+<video src="../resource/Dupilot-Showcase.mp4" controls width="100%">
   Your browser does not support the video tag.
 </video>

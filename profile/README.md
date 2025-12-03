@@ -53,6 +53,7 @@ Dupilot 서비스의 주요 기능을 담은 시연 영상입니다.
 ## 2. 시스템 아키텍처
 
 ![Dupilot 시스템 아키텍처](../resource/architecture.svg)
+
 Dupilot 서비스는 Docker Compose 기반의 아키텍처로 구성되었습니다.  
 Frontend는 React/Vite로 프로젝트 생성·목록·편집 UI와 타임라인/파형 기반 더빙 편집 기능을 제공합니다.  
 Backend는 FastAPI로 인증/프로젝트/작업 API 게이트웨이 역할을 하며, MongoDB에 데이터를 저장하고 S3에 파일을 관리합니다.
